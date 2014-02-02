@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Accompli</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="string_added_title">Added %s items</string>
+    <string name="string_added_message">%1$s : %2$s</string>
+    <string name="string_web_view_title">Web View</string>
+    <string name="string_list_view_title">List View</string>
+    <string name="string_empty_input_message">Please enter some text in the fields</string>
+    <string name="string_clear_all">Clear all</string>
+    <string name="string_no_items">No items to display</string>
+
+</resources>
